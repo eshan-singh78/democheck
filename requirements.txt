@@ -1,0 +1,7 @@
+altair
+pandas
+streamlit
+yfinance
+ta
+matplotlib
+numpy
